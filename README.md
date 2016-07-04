@@ -1,7 +1,5 @@
 # 4em
 
-Simple PHP discussion board
-
 ### Features
 
 * Create, view, and reply to threads
