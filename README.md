@@ -8,8 +8,8 @@
 
 ### Security
 
-* Passwords hashed and salted using standard PHP functions
-* User input sanitized against XSS and SQL injection
+~~* Passwords hashed and salted using standard PHP functions
+* User input sanitized against XSS and SQL injection~~
 
 ### Setting up
 
@@ -21,6 +21,8 @@
 
 ### Disclaimer
 
-The bulk of this code was written when I was much younger and less experienced. While I've done my best to patch the obvious holes, there are likely to be other flaws ranging in severity. 
+This is not secure.
 
-Although it's a decent codebase to learn from, I would highly advise against using 4em for anything serious.
+~~The bulk of this code was written when I was much younger and less experienced. While I've done my best to patch the obvious holes, there are likely to be other flaws ranging in severity.~~
+
+~~Although it's a decent codebase to learn from, I would highly advise against using 4em for anything serious.~~
