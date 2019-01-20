@@ -8,8 +8,8 @@
 
 ### Security
 
-~~* Passwords hashed and salted using standard PHP functions
-* User input sanitized against XSS and SQL injection~~
+~~* Passwords hashed and salted using standard PHP functions~~
+~~* User input sanitized against XSS and SQL injection~~
 
 ### Setting up
 
